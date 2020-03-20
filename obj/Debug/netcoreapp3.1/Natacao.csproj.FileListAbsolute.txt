@@ -1,0 +1,11 @@
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao.deps.json
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao.runtimeconfig.json
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao.runtimeconfig.dev.json
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao.dll
+/home/igor/Área de Trabalho/Natacao/bin/Debug/netcoreapp3.1/Natacao.pdb
+/home/igor/Área de Trabalho/Natacao/obj/Debug/netcoreapp3.1/Natacao.csprojAssemblyReference.cache
+/home/igor/Área de Trabalho/Natacao/obj/Debug/netcoreapp3.1/Natacao.AssemblyInfoInputs.cache
+/home/igor/Área de Trabalho/Natacao/obj/Debug/netcoreapp3.1/Natacao.AssemblyInfo.cs
+/home/igor/Área de Trabalho/Natacao/obj/Debug/netcoreapp3.1/Natacao.dll
+/home/igor/Área de Trabalho/Natacao/obj/Debug/netcoreapp3.1/Natacao.pdb
